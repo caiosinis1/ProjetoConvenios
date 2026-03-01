@@ -85,7 +85,7 @@ dist-ssr/
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
+# *.sln - NÃO ignorar solution files, são necessários
 *.sw?
 
 # Environment variables

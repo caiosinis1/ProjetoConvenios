@@ -1,0 +1,6 @@
+@ConveniosObras.API_HostAddress = http://localhost:5173
+
+GET {{ConveniosObras.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
